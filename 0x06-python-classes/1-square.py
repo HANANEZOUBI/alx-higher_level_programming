@@ -7,6 +7,6 @@ class Square:
 
     def __init__(self, size):
          """Initializing this square class
-        Args: size - represnets the size of the square defined
-        """
+         Args: size - represnets the size of the square define
+         """
         self.__size = size
