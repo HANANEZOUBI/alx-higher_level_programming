@@ -11,7 +11,7 @@ from sys import argv
 
 if __name__ == '__main__':
     """
-    Access to the database 
+    Access to the database
     then get the states
     from the database.
     """
